@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 **Full-Stack Web Development**  
 Building complete web applications with responsive frontends, backend APIs, database integration, and smooth user workflows.
 
@@ -11,7 +11,7 @@ Working with live data, REST APIs, dashboards, and system flows for real-time mo
 **Problem Solving & DSA**  
 Strengthening my foundation in Data Structures, Algorithms, competitive programming, and logical problem solving.
 
-🛠️ **Product Building for Hackathons**  
+**Product Building for Hackathons**  
 Turning ideas into working prototypes under strict timelines, with a focus on innovation, feasibility, and strong presentation.
 
 ---
